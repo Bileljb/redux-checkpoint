@@ -5,7 +5,9 @@ function App() {
   return (
     <div className="App">
       <AddTask></AddTask>
+      <br/>
       <TaskList></TaskList>
+      
     </div>
   );
 }
